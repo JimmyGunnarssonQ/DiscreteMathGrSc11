@@ -43,7 +43,7 @@ scale = 10**int(TrimF) #Scaling factor for triming
 
 print("---------------")
 print("Task 1:")
-print("Since this task is code writing, please see the .py file for the code written.")
+print("Since this task is code writing, please see content of the .py file for the written code.")
 print("---------------")
 print("Task 2:")
 InitialisingValue = 13
